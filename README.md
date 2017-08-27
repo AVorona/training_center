@@ -20,3 +20,11 @@ Hi, it's my personal training center. Here i would like to gather links to my tr
 
 
 >>>>
+
+<<<<< My Freecodecamp.com JS projects
+
+<a href="https://codepen.io/AVorona/pen/LjBzMx">Random quote machine v.0.5</a>
+
+
+
+>>>>
